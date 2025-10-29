@@ -142,11 +142,11 @@ Quantum states collapse to classical values:
 
 ```
 quantum-enhanced-ANN-/
-├── quantum_simulator.py      # Quantum mechanics simulation (450+ lines)
-├── neural_network.py         # Classical ANN implementation (320+ lines)
-├── demo.py                   # Full demonstration (400+ lines)
-├── example.py                # Simple usage example (90+ lines)
-├── test_implementation.py    # Test suite (230+ lines)
+├── quantum_simulator.py      # Quantum mechanics simulation (~390 lines)
+├── neural_network.py         # Classical ANN implementation (~300 lines)
+├── demo.py                   # Full demonstration (~330 lines)
+├── example.py                # Simple usage example (~90 lines)
+├── test_implementation.py    # Test suite (~220 lines)
 ├── __init__.py              # Package initialization
 ├── requirements.txt         # Dependencies (numpy, scipy, matplotlib)
 ├── .gitignore              # Git ignore patterns
@@ -221,7 +221,7 @@ This implementation demonstrates:
 ## Dependencies
 
 - **NumPy**: Array operations, linear algebra
-- **SciPy**: Scientific computing utilities  
+- **SciPy**: Scientific computing utilities
 - **Matplotlib**: Visualization and plotting
 
 ## Conclusion
